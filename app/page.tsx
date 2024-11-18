@@ -13,11 +13,11 @@ export default function Home() {
            width={1000}
            src='/assets/icons/logo-full.svg'
            alt="patient" 
-           className="mb-12 h-10 w-fit"/>
+           className="mb-12 h-16 w-fit"/>
 
          <PatientForm />
 
-        <div className="text-14-regular mt-20 flex justify-between">
+        <div className="text-14-regular mt-10 flex justify-between">
           <p className="justify-items-end text-dark-600 xl:text-left">
             © 2024 CarePluse
           </p>
